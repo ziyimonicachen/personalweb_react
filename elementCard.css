@@ -1,0 +1,21 @@
+.card {
+    flex: 1 1 calc(33.333% - 16px);
+    box-sizing: border-box;
+    background-color:lightseagreen;
+    border-radius: 10px;
+    padding: 40px;
+    margin:20px;
+    margin-left: 40px;
+}
+
+.card h2 {
+    color:white;
+    text-align: center;
+
+}
+
+.card p {
+    color: white;
+    text-align: left;
+
+}
